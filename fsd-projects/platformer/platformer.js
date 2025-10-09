@@ -31,16 +31,17 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-createplatform(400,700,100,10)
-createplatform(600,500,120,12)
-createplatform(400,400,100,10)
-createplatform(300,300,100,12)
-createplatform(500,200,100,10)
+createPlatform(400,700,100,10)
+createPlatform(600,600,200,12)
+createPlatform(400,500,100,10)
+createPlatform(300,400,100,12)
+createPlatform(600,300,200,10)
+createPlatform(1000,200,200,10)
 
 
 
     // TODO 3 - Create Collectables
-
+createCollectable(Diamond, 1000,200)
 
 
     
