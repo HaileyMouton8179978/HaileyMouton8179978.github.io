@@ -36,19 +36,11 @@ circle.push(circle);
 
 
         // TODO 3 : Call the drawCircle() function
-        drawCircle()
-        drawCircle()
-        drawCircle()
-        drawCircle()
-        drawCircle()
+       
 
 
         // TODO 7 : Use a loop to create multiple circles
-drawCircle()
-drawCircle()
-drawCircle()
-drawCircle()
-drawCircle()
+
 for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
 
             drawCircle();
@@ -78,11 +70,7 @@ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
 
 }
             // TODO 5 : Call game.checkCirclePosition() on your circles
-           game.checkCirclePosition(circles[0])
-           game.checkCirclePosition(circles[1])
-           game.checkCirclePosition(circles[2])
-           game.checkCirclePosition(circles[3])
-           game.checkCirclePosition(circles[4])
+          
             // TODO 8 / TODO 9 : Iterate over the array
            
             
