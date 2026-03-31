@@ -52,7 +52,13 @@ var init = function (window) {
         */
         function update() {
             // TODO 4 : Update the circle's position //
-            physikz.updatePosition(circles[ 0 ])
+             for (var i = 0; i < circles.length; i++) {
+               physikz.updatePosition(circles[i]);
+               game.checkCirclePosition(circles[i]);
+
+
+}
+
 
 
 
